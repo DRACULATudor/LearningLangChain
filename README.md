@@ -153,12 +153,5 @@ Feel free to fork this repository and submit pull requests for improvements or a
 
 This project is open source
 
-## 🙏 Acknowledgments
-
-- [DeepLearning.AI](https://www.deeplearning.ai/) for the excellent LangChain course content
-- [LangChain](https://python.langchain.com/) for the amazing framework
-- [Google](https://ai.google.dev/) for the Gemini API
-
----
 
 **Happy Learning! 🎓**
